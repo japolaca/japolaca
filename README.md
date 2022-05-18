@@ -1,9 +1,6 @@
 # Sobre Mim
 
-## Editando meu perfil
-
-
-- 👋 OLa,meu nome é @japolaca
+- 👋 OLa,meu nome é **@japolaca**
 - 👀 Eu estou interessada em aprender a programar novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript
 
