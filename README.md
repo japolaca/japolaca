@@ -4,7 +4,4 @@
 - 👀 Eu estou interessada em aprender a programar novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript
 
-<!---
-japolaca/japolaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.youtube.com/channel/UC7nSQqOhBfWEeiWKYkp3mZA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
