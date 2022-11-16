@@ -1,6 +1,6 @@
 # Sobre Mim
 
-- 👋 OLa,meu nome é **@japolaca**
+- 👋 OLa,meu nome é **@larissa**
 - 👀 Eu estou interessada em aprender a programar novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript
 
